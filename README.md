@@ -11,7 +11,6 @@
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Native0x6&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
 <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=Native0x6&theme=tokyonight" />
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Native0x6&layout=compact&theme=tokyonight"/>
-<img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Native0x6&theme=tokyonight&count_private=true&langs_count=5&custom_title=Language Stats (for the last 7 days)&range=last_7_days" />
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
