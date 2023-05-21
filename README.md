@@ -14,7 +14,7 @@
 <img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Native0x6&theme=tokyonight&count_private=true&langs_count=5&custom_title=Language Stats (for the last 7 days)&range=last_7_days" />
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+  
 ## Contact me : 
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Native0x6)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primarynative@gmail.com)
